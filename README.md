@@ -20,7 +20,7 @@ You may choose to work alone or with one partner on this project. Any dataset yo
 ## Hold on tight and I hope you enjoy this data exploration.
 ![giphy 1](https://user-images.githubusercontent.com/24231101/36292971-e62799b0-1292-11e8-9daa-65a590408e9e.gif)
 
-### First Dataset - 
+### 1st Dataset - 
 
 #### Context
 
